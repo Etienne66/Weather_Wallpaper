@@ -1,0 +1,285 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-nodpi/moon_2.png
+SHA1-Digest: vwomM03l7L+4oN7kqJ49JIm2OCo=
+
+Name: res/raw/lightning2t.model
+SHA1-Digest: ZrthofLrDzinESj0OwSP710qlYY=
+
+Name: res/drawable-nodpi/moon_7.png
+SHA1-Digest: wJafnC9tNlGO6ykuBBfJbqJXrG8=
+
+Name: res/drawable-nodpi/clouddark2.png
+SHA1-Digest: hUDt9bTXyq+xX6KhWFWHTogQ4lg=
+
+Name: res/drawable-nodpi/trees_overlay.png
+SHA1-Digest: dlByLW5HFy90U6HMksLnWdxZwts=
+
+Name: res/drawable-nodpi/bg3.jpg
+SHA1-Digest: BywnNeKuKiuMmrWswvB2YrTgRHU=
+
+Name: res/drawable-nodpi/moon_10.png
+SHA1-Digest: 1j2BDrY3gFpfG49QF80TwD9dCeg=
+
+Name: res/raw/lightning1t.model
+SHA1-Digest: mWsrpHPhknVuLYCNoKGRq/4D4Wo=
+
+Name: res/drawable-nodpi/moon_0.png
+SHA1-Digest: rQPNcaWlnDZBXS3ehibVN1HBRr0=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: SL7vys8id/EN6+XGbuSPes7LZgs=
+
+Name: res/raw/lightning3.model
+SHA1-Digest: DpYUp+q57z1R5/DzjzCVY+7c0jM=
+
+Name: res/drawable-nodpi/moon_9.png
+SHA1-Digest: GsNYLaC3cJAfaeedrfIPEjlpVUk=
+
+Name: res/drawable-nodpi/cloud5.png
+SHA1-Digest: Ld2j29XmDKdb4DIPwD8c104M/No=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: VsAkTattQbDq4y9caW3S+aJOGDs=
+
+Name: res/drawable-nodpi/bg1.jpg
+SHA1-Digest: WoMAUtk/v83i8YIafYIDEhl0ZxE=
+
+Name: res/drawable-nodpi/noise.png
+SHA1-Digest: 0BnW/2dLBg0eh8DdQdI6JBB3USg=
+
+Name: res/raw/lightning1.model
+SHA1-Digest: uSUoKL+0/XOh48GTPOMfEDeJkIo=
+
+Name: res/layout/searchcity.xml
+SHA1-Digest: bveDnGx8UPuDyBPFQ/kMhVxP23I=
+
+Name: res/drawable-nodpi/thumbnail.png
+SHA1-Digest: K5vf4HVbNGb6PtJeSyJG+3w4I2o=
+
+Name: res/layout/testactivitylayout.xml
+SHA1-Digest: eh9X6nUTRTKglDI1h6A2SHQJoko=
+
+Name: res/drawable-nodpi/moon_8.png
+SHA1-Digest: SbApVR3zVxPGc+rpI6Dze4IdOc0=
+
+Name: res/drawable-nodpi/color_picker_frame.9.png
+SHA1-Digest: HG/HwotzbjC4qM9PHC5b9qN4uCE=
+
+Name: res/raw/cloud5m.model
+SHA1-Digest: vhdrWohalgu4HewSJH+ydvOEG6k=
+
+Name: res/raw/lightning2.model
+SHA1-Digest: dLbGZvfBAKFeQlX+tEd6MJMsz1M=
+
+Name: res/raw/rain.model
+SHA1-Digest: vvz0keNaIEk2OZoPFmIAUoDsaGY=
+
+Name: res/drawable-nodpi/fifty_percent_black.png
+SHA1-Digest: s3yk8j1mrOeXUu4WjEaBJeNkl50=
+
+Name: res/xml/settings.xml
+SHA1-Digest: nK6um2qXJW8ZvfWhOigJQePm9bE=
+
+Name: res/drawable-nodpi/storm_bg.jpg
+SHA1-Digest: paHGje7BUSRNAZanCslUp6zVmOw=
+
+Name: res/drawable-nodpi/moon_3.png
+SHA1-Digest: LyMTO3qo5PAlW19Pi2UG2ie/rBs=
+
+Name: res/raw/rain_small.model
+SHA1-Digest: RiEkAsbgpUJiU/hxWFOPkyI0fUM=
+
+Name: res/raw/cloud3m.model
+SHA1-Digest: LpR2KT9XXsFQITPYt4/rVFBrBe0=
+
+Name: res/drawable-nodpi/moon_1.png
+SHA1-Digest: I2HIlnZpV/tQjyiIFJ7DQn6XRJE=
+
+Name: res/raw/flakes.model
+SHA1-Digest: 1yunUi1HrmzqGgnuo9K/uu0bfes=
+
+Name: res/raw/lightning3t.model
+SHA1-Digest: 69X+xe0JWfS8kQ8A27ULWBsdbUs=
+
+Name: res/drawable-nodpi/clouddark4.png
+SHA1-Digest: DBzE1fNMUKZ/H31X0M8UIq5jhEM=
+
+Name: res/raw/stars.model
+SHA1-Digest: krVe+6wAdZHOPz2ooNuMoNk7Hr8=
+
+Name: res/raw/sun_blend.tga
+SHA1-Digest: SIhIVUa7+/EpB91eBcaKhqw08BQ=
+
+Name: res/drawable-nodpi/cloud2.png
+SHA1-Digest: kHLW8dud0k1xCjFCFzps6MSlBqc=
+
+Name: res/raw/lightning_pieces_glow.tga
+SHA1-Digest: 2cCyw5Z4O/SWfPKBDkkZaxHNxDk=
+
+Name: res/drawable-nodpi/cloudflare3.png
+SHA1-Digest: YRGlyhXVhH3H72Dlm+y/k9YnzkU=
+
+Name: res/layout/searchcity_item.xml
+SHA1-Digest: 5XYHZXAcZQi5/yaURNkkAluS/rQ=
+
+Name: res/raw/balloon.model
+SHA1-Digest: e7WHYIR3spvmXqLADBUzh5GBGlI=
+
+Name: res/drawable-nodpi/grid1.png
+SHA1-Digest: tEUBDJBPXIkg234BColBUMz+/G4=
+
+Name: res/raw/compressed.tga
+SHA1-Digest: L+u068ZLT/avIXK6hY2JYLrrlNQ=
+
+Name: res/drawable-nodpi/bal_blue.png
+SHA1-Digest: qUBv+U/t8HFPL57XIg7s20wSAxk=
+
+Name: res/drawable-nodpi/moon_5.png
+SHA1-Digest: whMg+OjIlw1D9gp3a3428KwLVGU=
+
+Name: res/raw/sun.tga
+SHA1-Digest: EdV+q+6a0mwEkRIMeFTT9F91Oj4=
+
+Name: res/drawable-nodpi/clouddark3.png
+SHA1-Digest: fVl50jP4+m/u3B+oyqV8bBnW/dQ=
+
+Name: res/drawable-nodpi/moon_4.png
+SHA1-Digest: osnPo3sScm5DeJExWrzfDZ1HcU4=
+
+Name: res/drawable-nodpi/bal_red.png
+SHA1-Digest: ZOVc0smnzRsjOwx6epWu8Bw+hrM=
+
+Name: res/raw/wispy2.tga
+SHA1-Digest: 04Er6ziJrjH26fj+W1DZhPzX7eE=
+
+Name: res/raw/uncompressed.tga
+SHA1-Digest: Dgn+aOLzxUxCvO21RSqLRuq4RLs=
+
+Name: res/raw/grass_overlay.model
+SHA1-Digest: ENoiRYBYtY9gQnhbGJhThz6MeRo=
+
+Name: res/drawable-nodpi/cloudflare5.png
+SHA1-Digest: D81BsT3/LgyT1NrzF+JBYVbrWrg=
+
+Name: res/raw/cloud1m.model
+SHA1-Digest: 9c0azKud+/mUvoHsGfh2I0e30b8=
+
+Name: resources.arsc
+SHA1-Digest: gsIIRUXNRMnzQGCu148wf3uWLwg=
+
+Name: res/drawable-nodpi/cloudflare4.png
+SHA1-Digest: tyjE+bHvrJRIJ3cDdowJfes9SDI=
+
+Name: res/drawable-nodpi/cloud1.png
+SHA1-Digest: 0dPm9fdk0ew2nB8SKStgN+5XQnU=
+
+Name: res/raw/p_snow1.tga
+SHA1-Digest: 0MyZ/8EPf3n+JhNF/XL4V1wwfRs=
+
+Name: res/drawable-nodpi/color_picker_hues.9.png
+SHA1-Digest: l/cWXIEqrblkH7aH1AzRBVmvuGk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: +Ujhr6VhaL/RjHKIwb9yWbtLIOw=
+
+Name: res/raw/cloud2m.model
+SHA1-Digest: kAHhhV3r+zhdgCXothBKPJcuG8U=
+
+Name: res/raw/trees_overlay_terrain.model
+SHA1-Digest: ypLJoyX6QJS3OVHkUFTgqRPZIy8=
+
+Name: res/drawable-nodpi/moon_6.png
+SHA1-Digest: LBMFrW0tTutRSsgQcxthgJzqyzY=
+
+Name: res/drawable-nodpi/moon_11.png
+SHA1-Digest: D3cWqlAePM8F+ezAgr6hc6JLUy0=
+
+Name: res/drawable-nodpi/clouddark1.png
+SHA1-Digest: nYzMw+IYjcC9uBU+XNCEl3uo9/0=
+
+Name: res/raw/lightning_pieces_core.tga
+SHA1-Digest: xNxtwt5XL+2NiiSYfit1WX/W3Bs=
+
+Name: res/raw/plane_16x16.model
+SHA1-Digest: l2OSDbbRUQNSYuMengofyir3m6M=
+
+Name: res/drawable-nodpi/cloudflare1.png
+SHA1-Digest: hmdamYJkg/jmzF805B/2P2wA+K8=
+
+Name: res/drawable-nodpi/bal_yellow.png
+SHA1-Digest: WM3Mg9ZVfsIR599Idp+0gHM4XbI=
+
+Name: res/raw/p_snow2.tga
+SHA1-Digest: VXwPuafIftI9Yy7VwBxZU5+hbYw=
+
+Name: res/drawable-nodpi/ufo.png
+SHA1-Digest: nQ+vUXjJ9qihu/eSwfQkASSIP6M=
+
+Name: res/raw/cloud4m.model
+SHA1-Digest: rYP11skwc4p97vxgl4Ty0JI5m6w=
+
+Name: classes.dex
+SHA1-Digest: YReppSgs1TWqJRoO5zviMUf6zOI=
+
+Name: res/drawable-nodpi/raindrop.png
+SHA1-Digest: Kl2bHjwt4LF/qFzFO7TJtkh640Y=
+
+Name: res/layout/color_picker.xml
+SHA1-Digest: IXvtlHUq6e6FI/R3RzejdNh5hQg=
+
+Name: res/raw/wispy3.tga
+SHA1-Digest: XkhQGZzOm1TUsronooe4ub9sMTk=
+
+Name: res/drawable-nodpi/ufo_glow.png
+SHA1-Digest: 1hk+iAy7YUt0Y1QAPGAei5UhLb0=
+
+Name: res/raw/trees_overlay.model
+SHA1-Digest: MkhO2e6jpiveHj3le0vLVNf8Igs=
+
+Name: res/xml/wallpaper.xml
+SHA1-Digest: J7YfQTgTwfYO7BNsVs6GBpdS05g=
+
+Name: res/layout-land/testactivitylayout.xml
+SHA1-Digest: koS8tp4tF5VhPjyr1gcFToN+Vxg=
+
+Name: res/raw/ufo.model
+SHA1-Digest: 6fgRHV5H9cHYQE30xMnIfXywnM8=
+
+Name: res/drawable-nodpi/bal_green.png
+SHA1-Digest: fQFXMQPSFQBwANboZUezpc1ndfw=
+
+Name: res/raw/ufo_ring.model
+SHA1-Digest: TBN+e9Jj/3UKARZ3qjsTkLdM7UM=
+
+Name: res/drawable-nodpi/stars.png
+SHA1-Digest: tkFhMiwu/OlgezPcyjv0KU1YF+0=
+
+Name: res/drawable-nodpi/bg2.jpg
+SHA1-Digest: 7ehQRJQppUjPIy+j8OkwV7/4xwA=
+
+Name: res/drawable-nodpi/cloudflare2.png
+SHA1-Digest: RUWC4h+7G/6iNeng9pjbjXVBLro=
+
+Name: res/raw/wispy1.tga
+SHA1-Digest: d51uICHioF2jt6Nx0m5vDz+8FRA=
+
+Name: res/drawable-nodpi/clouddark5.png
+SHA1-Digest: Ck/RVn0ILLuxeihPdN9cCLIYqaU=
+
+Name: res/drawable-nodpi/cloud4.png
+SHA1-Digest: E5cP6bcHjITRIywWaUVTZFRLcHA=
+
+Name: res/layout/value_slider.xml
+SHA1-Digest: Vuy3ZRCdFJbBNi61TaWSVmIwavo=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: nxRzxMF745Ucg87Cuado/jAPMik=
+
+Name: res/drawable-nodpi/cloud3.png
+SHA1-Digest: 9Lwk2WWUlKVOQh5KH/T0VPi8WS4=
+
+Name: res/raw/drop.tga
+SHA1-Digest: r92LOwD+fQtKQAKvqcTo5oMSPQk=
+

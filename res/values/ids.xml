@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="preview" />
+    <item type="id" name="hue" />
+    <item type="id" name="saturation" />
+    <item type="id" name="value" />
+    <item type="id" name="alpha" />
+    <item type="id" name="loc_edit" />
+    <item type="id" name="search_city_now" />
+    <item type="id" name="text1" />
+    <item type="id" name="gamesurfaceview" />
+    <item type="id" name="ButtonLayoutBottom" />
+    <item type="id" name="button_1" />
+    <item type="id" name="button_2" />
+    <item type="id" name="button_3" />
+    <item type="id" name="button_4" />
+    <item type="id" name="button_5" />
+    <item type="id" name="button_clear" />
+    <item type="id" name="button_cloudy" />
+    <item type="id" name="button_rain" />
+    <item type="id" name="button_storm" />
+    <item type="id" name="button_snow" />
+    <item type="id" name="button_fog" />
+    <item type="id" name="SliderLabelCenter" />
+    <item type="id" name="LinearLayout01" />
+    <item type="id" name="SliderLabelLeft" />
+    <item type="id" name="SliderBar" />
+    <item type="id" name="SliderLabelRight" />
+</resources>

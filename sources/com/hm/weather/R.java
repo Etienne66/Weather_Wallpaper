@@ -1,0 +1,288 @@
+package com.hm.weather;
+
+public final class R {
+
+    public static final class array {
+        public static final int array_10 = 2131099667;
+        public static final int array_12345 = 2131099664;
+        public static final int array_1311975 = 2131099662;
+        public static final int array_210 = 2131099660;
+        public static final int array_3210 = 2131099661;
+        public static final int array_54321 = 2131099663;
+        public static final int array_bg = 2131099656;
+        public static final int array_bg_desc = 2131099657;
+        public static final int array_enabledisable = 2131099665;
+        public static final int array_highmedlow = 2131099658;
+        public static final int array_rightleft = 2131099666;
+        public static final int array_veryhighmedlowverylow = 2131099659;
+        public static final int locations_choices = 2131099654;
+        public static final int locations_src = 2131099650;
+        public static final int locations_src_values = 2131099651;
+        public static final int locations_values = 2131099655;
+        public static final int temp_unit_choices = 2131099652;
+        public static final int temp_unit_values = 2131099653;
+        public static final int weather_desc = 2131099648;
+        public static final int weather_type_ids = 2131099649;
+    }
+
+    public static final class attr {
+    }
+
+    public static final class drawable {
+        public static final int bal_blue = 2130837504;
+        public static final int bal_green = 2130837505;
+        public static final int bal_red = 2130837506;
+        public static final int bal_yellow = 2130837507;
+        public static final int bg1 = 2130837508;
+        public static final int bg2 = 2130837509;
+        public static final int bg3 = 2130837510;
+        public static final int cloud1 = 2130837511;
+        public static final int cloud2 = 2130837512;
+        public static final int cloud3 = 2130837513;
+        public static final int cloud4 = 2130837514;
+        public static final int cloud5 = 2130837515;
+        public static final int clouddark1 = 2130837516;
+        public static final int clouddark2 = 2130837517;
+        public static final int clouddark3 = 2130837518;
+        public static final int clouddark4 = 2130837519;
+        public static final int clouddark5 = 2130837520;
+        public static final int cloudflare1 = 2130837521;
+        public static final int cloudflare2 = 2130837522;
+        public static final int cloudflare3 = 2130837523;
+        public static final int cloudflare4 = 2130837524;
+        public static final int cloudflare5 = 2130837525;
+        public static final int color_picker_frame = 2130837526;
+        public static final int color_picker_hues = 2130837527;
+        public static final int fifty_percent_black = 2130837528;
+        public static final int grid1 = 2130837529;
+        public static final int icon = 2130837530;
+        public static final int moon_0 = 2130837531;
+        public static final int moon_1 = 2130837532;
+        public static final int moon_10 = 2130837533;
+        public static final int moon_11 = 2130837534;
+        public static final int moon_2 = 2130837535;
+        public static final int moon_3 = 2130837536;
+        public static final int moon_4 = 2130837537;
+        public static final int moon_5 = 2130837538;
+        public static final int moon_6 = 2130837539;
+        public static final int moon_7 = 2130837540;
+        public static final int moon_8 = 2130837541;
+        public static final int moon_9 = 2130837542;
+        public static final int noise = 2130837543;
+        public static final int raindrop = 2130837544;
+        public static final int stars = 2130837545;
+        public static final int storm_bg = 2130837546;
+        public static final int thumbnail = 2130837547;
+        public static final int trees_overlay = 2130837548;
+        public static final int ufo = 2130837549;
+        public static final int ufo_glow = 2130837550;
+    }
+
+    public static final class id {
+        public static final int ButtonLayoutBottom = 2131230729;
+        public static final int LinearLayout01 = 2131230742;
+        public static final int SliderBar = 2131230744;
+        public static final int SliderLabelCenter = 2131230741;
+        public static final int SliderLabelLeft = 2131230743;
+        public static final int SliderLabelRight = 2131230745;
+        public static final int alpha = 2131230724;
+        public static final int button_1 = 2131230730;
+        public static final int button_2 = 2131230731;
+        public static final int button_3 = 2131230732;
+        public static final int button_4 = 2131230733;
+        public static final int button_5 = 2131230734;
+        public static final int button_clear = 2131230735;
+        public static final int button_cloudy = 2131230736;
+        public static final int button_fog = 2131230740;
+        public static final int button_rain = 2131230737;
+        public static final int button_snow = 2131230739;
+        public static final int button_storm = 2131230738;
+        public static final int gamesurfaceview = 2131230728;
+        public static final int hue = 2131230721;
+        public static final int loc_edit = 2131230725;
+        public static final int preview = 2131230720;
+        public static final int saturation = 2131230722;
+        public static final int search_city_now = 2131230726;
+        public static final int text1 = 2131230727;
+        public static final int value = 2131230723;
+    }
+
+    public static final class layout {
+        public static final int color_picker = 2130903040;
+        public static final int searchcity = 2130903041;
+        public static final int searchcity_item = 2130903042;
+        public static final int testactivitylayout = 2130903043;
+        public static final int value_slider = 2130903044;
+    }
+
+    public static final class raw {
+        public static final int balloon = 2131034112;
+        public static final int cloud1m = 2131034113;
+        public static final int cloud2m = 2131034114;
+        public static final int cloud3m = 2131034115;
+        public static final int cloud4m = 2131034116;
+        public static final int cloud5m = 2131034117;
+        public static final int compressed = 2131034118;
+        public static final int drop = 2131034119;
+        public static final int flakes = 2131034120;
+        public static final int grass_overlay = 2131034121;
+        public static final int lightning1 = 2131034122;
+        public static final int lightning1t = 2131034123;
+        public static final int lightning2 = 2131034124;
+        public static final int lightning2t = 2131034125;
+        public static final int lightning3 = 2131034126;
+        public static final int lightning3t = 2131034127;
+        public static final int lightning_pieces_core = 2131034128;
+        public static final int lightning_pieces_glow = 2131034129;
+        public static final int p_snow1 = 2131034130;
+        public static final int p_snow2 = 2131034131;
+        public static final int plane_16x16 = 2131034132;
+        public static final int rain = 2131034133;
+        public static final int rain_small = 2131034134;
+        public static final int stars = 2131034135;
+        public static final int sun = 2131034136;
+        public static final int sun_blend = 2131034137;
+        public static final int trees_overlay = 2131034138;
+        public static final int trees_overlay_terrain = 2131034139;
+        public static final int ufo = 2131034140;
+        public static final int ufo_ring = 2131034141;
+        public static final int uncompressed = 2131034142;
+        public static final int wispy1 = 2131034143;
+        public static final int wispy2 = 2131034144;
+        public static final int wispy3 = 2131034145;
+    }
+
+    public static final class string {
+        public static final int Clear = 2131165233;
+        public static final int Cloudy_AM_and_PM = 2131165213;
+        public static final int Dreary_AM_and_PM = 2131165214;
+        public static final int Flurries_AM_and_PM = 2131165223;
+        public static final int Fog_AM_and_PM = 2131165215;
+        public static final int Freezing_Rain_AM_and_PM = 2131165230;
+        public static final int Hazy = 2131165236;
+        public static final int Hazy_Sunshine = 2131165211;
+        public static final int Ice_AM_and_PM = 2131165228;
+        public static final int Intermittent_Clouds = 2131165210;
+        public static final int Mostly_Clear = 2131165234;
+        public static final int Mostly_Cloudy = 2131165212;
+        public static final int Mostly_Cloudy_with_Flurries = 2131165224;
+        public static final int Mostly_Cloudy_with_Showers = 2131165217;
+        public static final int Mostly_Cloudy_with_Snow = 2131165227;
+        public static final int Mostly_Cloudy_with_Thunder_Showers = 2131165220;
+        public static final int Mostly_Sunny = 2131165208;
+        public static final int Partly_Cloudy = 2131165235;
+        public static final int Partly_Cloudy_with_Showers = 2131165237;
+        public static final int Partly_Cloudy_with_Thunder_Showers = 2131165238;
+        public static final int Partly_Sunny = 2131165209;
+        public static final int Partly_Sunny_with_Flurries = 2131165225;
+        public static final int Partly_Sunny_with_Showers = 2131165218;
+        public static final int Partly_Sunny_with_Thunder_Showers = 2131165221;
+        public static final int Rain_AM_and_PM = 2131165222;
+        public static final int Rain_and_Snow_Mixed = 2131165231;
+        public static final int Showers_AM_and_PM = 2131165216;
+        public static final int Sleet_AM_and_PM = 2131165229;
+        public static final int Snow_AM_and_PM = 2131165226;
+        public static final int Sunny = 2131165207;
+        public static final int Thunderstorms_AM_and_PM = 2131165219;
+        public static final int Windy_AM_and_PM = 2131165232;
+        public static final int app_name = 2131165260;
+        public static final int color_a = 2131165243;
+        public static final int color_dialog_title = 2131165239;
+        public static final int color_h = 2131165240;
+        public static final int color_s = 2131165241;
+        public static final int color_v = 2131165242;
+        public static final int current_location = 2131165206;
+        public static final int default_locations_value = 2131165189;
+        public static final int default_temp_unit_value = 2131165188;
+        public static final int description = 2131165261;
+        public static final int empty_replacer = 2131165190;
+        public static final int enter_city_or_zip = 2131165202;
+        public static final int howto_close = 2131165253;
+        public static final int howto_getdonation = 2131165251;
+        public static final int howto_nosupport = 2131165254;
+        public static final int howto_nosupport_title = 2131165255;
+        public static final int howto_takeme = 2131165252;
+        public static final int howto_text1 = 2131165245;
+        public static final int howto_text1_paid = 2131165246;
+        public static final int howto_text2 = 2131165247;
+        public static final int howto_text3 = 2131165248;
+        public static final int howto_text4 = 2131165249;
+        public static final int howto_text5 = 2131165250;
+        public static final int howto_title = 2131165244;
+        public static final int live_weather = 2131165204;
+        public static final int location = 2131165197;
+        public static final int no_result_found = 2131165205;
+        public static final int pref_background = 2131165285;
+        public static final int pref_background_desc = 2131165286;
+        public static final int pref_ballooncounttarget = 2131165307;
+        public static final int pref_ballooncounttarget_desc = 2131165308;
+        public static final int pref_cameraspeed = 2131165305;
+        public static final int pref_cameraspeed_desc = 2131165306;
+        public static final int pref_defaultcolors = 2131165284;
+        public static final int pref_lightcolor1 = 2131165276;
+        public static final int pref_lightcolor1_desc = 2131165277;
+        public static final int pref_lightcolor2 = 2131165278;
+        public static final int pref_lightcolor2_desc = 2131165279;
+        public static final int pref_lightcolor3 = 2131165280;
+        public static final int pref_lightcolor3_desc = 2131165281;
+        public static final int pref_lightcolor4 = 2131165282;
+        public static final int pref_lightcolor4_desc = 2131165283;
+        public static final int pref_numclouds = 2131165297;
+        public static final int pref_numclouds_desc = 2131165298;
+        public static final int pref_numwisps = 2131165299;
+        public static final int pref_numwisps_desc = 2131165300;
+        public static final int pref_redballoonsonly = 2131165291;
+        public static final int pref_redballoonsonly_desc = 2131165292;
+        public static final int pref_smsballoons = 2131165289;
+        public static final int pref_smsballoons_desc = 2131165290;
+        public static final int pref_superfastday = 2131165274;
+        public static final int pref_superfastday_desc = 2131165275;
+        public static final int pref_ufobattery = 2131165295;
+        public static final int pref_ufobattery_desc = 2131165296;
+        public static final int pref_useballoons = 2131165287;
+        public static final int pref_useballoons_desc = 2131165288;
+        public static final int pref_usemipmaps = 2131165303;
+        public static final int pref_usemipmaps_desc = 2131165304;
+        public static final int pref_usemoon = 2131165270;
+        public static final int pref_usesun = 2131165269;
+        public static final int pref_usetimeofday = 2131165271;
+        public static final int pref_usetimeofday_desc = 2131165272;
+        public static final int pref_useufo = 2131165293;
+        public static final int pref_useufo_desc = 2131165294;
+        public static final int pref_windspeed = 2131165301;
+        public static final int pref_windspeed_desc = 2131165302;
+        public static final int search_city = 2131165203;
+        public static final int search_for_location = 2131165184;
+        public static final int search_geo_location_msg = 2131165187;
+        public static final int search_location_msg = 2131165186;
+        public static final int search_location_title = 2131165185;
+        public static final int specify_loc = 2131165200;
+        public static final int specify_loc_summary = 2131165201;
+        public static final int title_appearancePreferences = 2131165262;
+        public static final int title_balloonPreferences = 2131165266;
+        public static final int title_colorPreferences = 2131165263;
+        public static final int title_otherPreferences = 2131165265;
+        public static final int title_speedPreferences = 2131165264;
+        public static final int title_timeofdaysettings = 2131165273;
+        public static final int title_todPreferences = 2131165268;
+        public static final int title_ufoPreferences = 2131165267;
+        public static final int to_enable_location_msg = 2131165192;
+        public static final int to_enable_location_title = 2131165191;
+        public static final int to_enable_network_msg = 2131165194;
+        public static final int to_enable_network_title = 2131165193;
+        public static final int to_enable_wifi_msg = 2131165196;
+        public static final int to_enable_wifi_title = 2131165195;
+        public static final int upsell_close = 2131165259;
+        public static final int upsell_getfull = 2131165257;
+        public static final int upsell_text1 = 2131165309;
+        public static final int upsell_title = 2131165256;
+        public static final int upsell_visitwebpage = 2131165258;
+        public static final int use_curr_loc = 2131165198;
+        public static final int use_curr_loc_summary = 2131165199;
+    }
+
+    public static final class xml {
+        public static final int settings = 2130968576;
+        public static final int wallpaper = 2130968577;
+    }
+}
